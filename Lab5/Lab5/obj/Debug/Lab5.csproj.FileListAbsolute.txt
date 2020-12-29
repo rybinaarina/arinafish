@@ -1,0 +1,9 @@
+C:\Users\ribin\OneDrive\Документы\Учеба\ЛР2\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\ribin\OneDrive\Документы\Учеба\ЛР2\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\ribin\OneDrive\Документы\Учеба\ЛР2\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\ribin\OneDrive\Документы\Учеба\ЛР2\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\ribin\OneDrive\Документы\Учеба\ЛР2\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\ribin\OneDrive\Документы\Учеба\ЛР2\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\ribin\OneDrive\Документы\Учеба\ЛР2\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\ribin\OneDrive\Документы\Учеба\ЛР2\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\ribin\OneDrive\Документы\Учеба\ЛР2\Lab5\Lab5\obj\Debug\Lab5.pdb
